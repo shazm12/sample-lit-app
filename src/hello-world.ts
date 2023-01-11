@@ -20,7 +20,13 @@ export class HelloWorld extends LitElement {
     this.counter += 1;
   }
 
-  _changePage() {
+  _changenode_modules/
+  *.tgz
+  *.tsbuildinfo
+  .DS_Store
+  .vscode/
+  .wireit
+  /tempPage() {
     this.section = 'next';
   }
 
